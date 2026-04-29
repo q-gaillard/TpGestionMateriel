@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TpGestionMateriel.App/TpGestionMateriel.App.csproj" />
+  <Project Path="TpGestionMateriel.Tests/TpGestionMateriel.Tests.csproj" />
+</Solution>
