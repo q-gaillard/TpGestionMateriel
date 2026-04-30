@@ -1,6 +1,6 @@
 using System.ComponentModel;
 
-class VideoProjecteur : Materiel  // un appareil à tire lumière capable de faire apparaître des éléments visuels sans écran, c'est DE LA SORCELLERIE !
+public class VideoProjecteur : Materiel  // un appareil à tire lumière capable de faire apparaître des éléments visuels sans écran, c'est DE LA SORCELLERIE !
 {
     private int luminositeLumens;
     private bool cableHDMIInclut;

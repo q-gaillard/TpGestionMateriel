@@ -1,4 +1,4 @@
-class Tablette : Materiel  // smartphone de grande taille tactile pouvais accueillir beaucoup de doigts en même temps !
+public class Tablette : Materiel  // smartphone de grande taille tactile pouvais accueillir beaucoup de doigts en même temps !
 {
     private double tailleEcranPouces;
     private bool styletInclut;

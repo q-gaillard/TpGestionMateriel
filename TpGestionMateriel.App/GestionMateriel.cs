@@ -1,7 +1,7 @@
 using System.IO.Pipelines;
 using System.Security;
 
-class GestionMateriel
+public class GestionMateriel
 {
     private List<Materiel> materiels;
 

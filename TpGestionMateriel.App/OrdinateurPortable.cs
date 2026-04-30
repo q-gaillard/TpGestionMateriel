@@ -1,4 +1,4 @@
-class OrdinateurPortable : Materiel  // Un appareil électronique à clavier azerty ou qwerty portatif.
+public class OrdinateurPortable : Materiel  // Un appareil électronique à clavier azerty ou qwerty portatif.
 {
     private int ramGo;
     private bool possedeChargeur;
